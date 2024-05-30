@@ -1,5 +1,5 @@
-<h1 align="center"> Hello, Welcome to My Profile 👋</h1>
-<h3 align="center">I'm Rifanny Lysara Annastasya, I am an undergraduate Computer Science student at Universitas Pendidikan Indonesia. Welcome to my GitHub profile where I share my projects, learnings, and contributions in the field of computer science. I am particularly passionate about web development, where I enjoy creating interactive and user-friendly web applications. I believe in the power of technology to transform lives and strive to learn and grow every day. One of my favorite motivational quotes is, "The only way to do great work is to love what you do." This inspires me to continually improve my skills and pursue excellence in every project I undertake.</h3>
+<h1 align=""> Hello, Welcome to My Profile 👋</h1>
+<h3 align="">I'm Rifanny Lysara Annastasya, I am an undergraduate Computer Science student at Universitas Pendidikan Indonesia. Welcome to my GitHub profile where I share my projects, learnings, and contributions in the field of computer science. I am particularly passionate about web development, where I enjoy creating interactive and user-friendly web applications. I believe in the power of technology to transform lives and strive to learn and grow every day. One of my favorite motivational quotes is, "The only way to do great work is to love what you do." This inspires me to continually improve my skills and pursue excellence in every project I undertake.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

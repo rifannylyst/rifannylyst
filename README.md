@@ -1,5 +1,13 @@
 <h1 align=""> Hello, Welcome to My Profile 👋</h1>
-<h3 align="">I'm Rifanny Lysara Annastasya, I am an undergraduate Computer Science student at Universitas Pendidikan Indonesia. Welcome to my GitHub profile where I share my projects, learnings, and contributions in the field of computer science. I am particularly passionate about web development, where I enjoy creating interactive and user-friendly web applications. I believe in the power of technology to transform lives and strive to learn and grow every day. One of my favorite motivational quotes is, "The only way to do great work is to love what you do." This inspires me to continually improve my skills and pursue excellence in every project I undertake.</h3>
+<h3 align="">### Hi, I'm Rifanny Lysara Annastasya 👋
+
+I'm a Computer Science graduate from Universitas Pendidikan Indonesia with an interest in web and mobile application development.
+
+I have professional experience developing web applications and healthcare information systems using PHP, Angular, HTML, CSS, and JavaScript. I've also worked on mobile application development using Flutter and Dart.
+
+I'm interested in building practical, user-friendly applications and continuously improving my skills through hands-on projects and new technologies.
+
+Thanks for visiting my profile!.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

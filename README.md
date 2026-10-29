@@ -1,5 +1,5 @@
 <h1 align=""> Hello, Welcome to My Profile 👋</h1>
-<h3 align="">### Hi, I'm Rifanny Lysara Annastasya 👋
+<h3 align="">Hi, I'm Rifanny Lysara Annastasya 👋
 
 I'm a Computer Science graduate from Universitas Pendidikan Indonesia with an interest in web and mobile application development.
 
